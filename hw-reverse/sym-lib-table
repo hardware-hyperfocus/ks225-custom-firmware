@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Realtek")(type "KiCad")(uri "${KIPRJMOD}/Realtek.kicad_sym")(options "")(descr ""))
+  (lib (name "PTS_647_SM38_SMTR2_LFS")(type "KiCad")(uri "${KIPRJMOD}/Custom/PTS_647_SM38_SMTR2_LFS.kicad_sym")(options "")(descr ""))
+)
